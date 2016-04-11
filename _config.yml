@@ -1,0 +1,28 @@
+name: fisioterapia
+favicon: null
+layout_spectrum: 0.40907798195257783
+typography_spectrum: 0.8517170751001686
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5355804567225277
+  lightness: 0.5296368971467018
+  saturation: 0.4225500386673957
+  rhythmicContrast: 0.6570602816063911
+purpose: []
