@@ -1,4 +1,4 @@
-name: fisioterapia
+name: tufisioencasa
 favicon: null
 layout_spectrum: 0.40907798195257783
 typography_spectrum: 0.8517170751001686
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5355804567225277
-  lightness: 0.5296368971467018
-  saturation: 0.4225500386673957
-  rhythmicContrast: 0.6570602816063911
+    - '#ffffff'
+    - '#97c00e'
+    - '#5bc5ed'
+    - '#e21770'
+    - '#e85f54'
+  brandStrength: 0.875
+  lightness: 0.875
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose: []
