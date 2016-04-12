@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T12:14:18.534Z'
-dateModified: '2016-04-12T12:14:06.785Z'
+datePublished: '2016-04-12T12:39:39.343Z'
+dateModified: '2016-04-12T12:39:34.612Z'
 title: ¿Por qué un fisioterapeuta?
 author: []
 authors: []
