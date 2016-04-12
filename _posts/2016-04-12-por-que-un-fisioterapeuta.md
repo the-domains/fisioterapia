@@ -1,14 +1,15 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-12T12:48:48.484Z'
-dateModified: '2016-04-12T12:48:44.549Z'
-title: ¿Por qué un fisioterapeuta?
+description: ¿Por qué un fisioterapeuta?
+datePublished: '2016-04-12T14:48:11.767Z'
+dateModified: '2016-04-12T14:48:09.310Z'
+title: 'INICIO '
 author: []
 authors: []
 publisher:
@@ -18,11 +19,10 @@ publisher:
   favicon: null
 sourcePath: _posts/2016-04-12-por-que-un-fisioterapeuta.md
 published: true
-url: por-que-un-fisioterapeuta/index.html
-_type: Article
+_type: Blurb
 
 ---
-# ¿Por qué un fisioterapeuta?
+# INICIO
 
 ### Qué hacemos
 
