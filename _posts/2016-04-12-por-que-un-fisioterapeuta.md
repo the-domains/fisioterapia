@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T12:39:39.343Z'
-dateModified: '2016-04-12T12:39:34.612Z'
+datePublished: '2016-04-12T12:48:48.484Z'
+dateModified: '2016-04-12T12:48:44.549Z'
 title: ¿Por qué un fisioterapeuta?
 author: []
 authors: []
